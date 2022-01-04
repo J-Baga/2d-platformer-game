@@ -1,0 +1,25 @@
+Bibliography
+
+
+Assets
+------
+
+
+
+Game
+----
+Scenes - All by Jeric Baga
+Scripts - All by Jeric Baga
+
+
+Art
+---
+Animations - All by Jeric Baga, using Unity
+Background - All by Jeric Baga, using GIMP and Paint.net
+Sprites - All by Jeric Baga, using Piskel
+Tile Maps - All by Jeric Baga, using Piskel
+
+
+Music
+-----
+SFX and BGM - All by Jeric Baga, using MuseScore3, GarageBand, and Audacity

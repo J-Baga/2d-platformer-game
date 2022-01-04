@@ -1,0 +1,19 @@
+Instructions on how to play ATTA: A Toaster's Toasty Adventure
+--------------------------------------------------------------
+
+Controls
+--------
+Move left: Left Arrow Key
+Move right: Right Arrow Key
+Jump: Up Arrow Key
+Switch Forms: "S" Key
+Shoot Toast: "A" Key
+
+How to Play
+-----------
+Get to the end of each level without losing all your health or falling off the stage! Throughout the level you will encounter enemies who will shoot at you when you are in their aggro range. Defeat them to earn points! Also, there are various avocados scattered around the level that will give you points, so be sure to collect as much as you can!
+
+Enemies
+-------
+Ketchup Karen - 2 health
+Mustard Mike - 4 health

@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Terrain Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+    totalSpriteSurfaceArea: 376832
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -4917556056623737379, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: -7734497434799731406, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: -5260699828434480393, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: 1249340530964076104, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: -6408928148957749854, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: 8862548380454178427, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: -67183594346229208, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: -1057104900837323147, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: -4810855089823369023, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: 188144474128219702, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: -7200336480497933069, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: -5243952237142818577, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: -230420714505521483, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: -1830065303887580738, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: 63874094463313796, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: 8508919702519622295, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: -2799365563004848294, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: 8548382313349864287, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: -5904178037182056365, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: -7953122086172017863, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: 5263279957244089098, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: -3512038119909842318, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  - {fileID: -7060405822724991662, guid: 912e129aa84de264c8c124577c23168f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Terrain Sprite Map_20
+  - Terrain Sprite Map_21
+  - Terrain Sprite Map_22
+  - Terrain Sprite Map_6
+  - Terrain Sprite Map_7
+  - Terrain Sprite Map_4
+  - Terrain Sprite Map_5
+  - Terrain Sprite Map_2
+  - Terrain Sprite Map_15
+  - Terrain Sprite Map_3
+  - Terrain Sprite Map_14
+  - Terrain Sprite Map_0
+  - Terrain Sprite Map_17
+  - Terrain Sprite Map_1
+  - Terrain Sprite Map_16
+  - Terrain Sprite Map_11
+  - Terrain Sprite Map_10
+  - Terrain Sprite Map_13
+  - Terrain Sprite Map_12
+  - Terrain Sprite Map_8
+  - Terrain Sprite Map_9
+  - Terrain Sprite Map_19
+  - Terrain Sprite Map_18
+  m_RenderDataMap: {}
+  m_Tag: Terrain Sprite Atlas
+  m_IsVariant: 0
